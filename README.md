@@ -41,7 +41,7 @@ render_lc_palette("colors_2024", 5)
 ```
 ![](primary_lecreuset.png)
 
-Use colors from `carnegie_palettes` in your graphs
+Use colors from `lecreuset` in your graphs
 ```r
 set.seed(2024)
 hist(rnorm(n = 100, mean = 0, sd = 1), col = lc_palettes[["colors_2024"]]["Chiffon Pink"])

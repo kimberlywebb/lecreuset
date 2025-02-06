@@ -2,6 +2,8 @@
 Contains code for R package with R color palettes inspired by Le Crueset cookware.
 Code adopted from the lovely `inauguration` R package by Cianna Bedford-Petersen, available [here](https://github.com/ciannabp/inauguration). 
 
+![](lecreuset_Hex_Sticker.png)
+
 # R package installation
 Install the  `lecreuset` R package using the following code:
 ``` r
